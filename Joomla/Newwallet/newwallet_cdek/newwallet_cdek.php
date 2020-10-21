@@ -2,7 +2,7 @@
 /**
  * @package Joomla.JoomShopping.Products
  * @version 1.0.0
- * @author Dmitry (Meling Vadim)
+ * @author Dmitry (Dmitry Zadorozhny)
  * @website https://newwallet.ru
  */
 defined('_JEXEC') or die('Restricted access');

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.8" type="plugin" method="upgrade" group="jshoppingcheckout">
+	<name>JoomShopping - Newwallet Pochta </name>
+	<author>admin</author>
+	<creationDate>July, 2018</creationDate>
+	<copyright>Copyright by Admin. All rights reserved.</copyright>
+	<license>The MIT License (MIT)</license>
+	<authorEmail>support@newwallet.loc</authorEmail>
+	<authorUrl>http://newwallet.loc/</authorUrl>
+    <version>1.0</version>
+	<description>Newwallet Pochta create order</description>
+	<files>
+		<filename plugin="newwallet_pochta">newwallet_pochta.php</filename>
+	</files>
+</extension>
