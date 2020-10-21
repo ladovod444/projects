@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="system" method="upgrade">
+	<name>JoomShopping - Newwallet Sort</name>
+	<author>admin</author>
+	<creationDate>March, 2018</creationDate>
+	<copyright>Copyright by Admin. All rights reserved.</copyright>
+	<license>The MIT License (MIT)</license>
+	<authorEmail>support@newwallet.loc</authorEmail>
+	<authorUrl>http://newwallet.loc/</authorUrl>
+    <version>1.0</version>
+	<description>JoomShopping - Newwallet enable sort products</description>
+	<files>
+		<filename plugin="newwallet_sort">newwallet_sort.php</filename>
+    <folder>js</folder>
+	</files>
+</extension>
