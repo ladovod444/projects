@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.8" type="plugin" method="upgrade" group="jshoppingcheckout">
+	<name>JoomShopping - Newwallet CDEK</name>
+	<author>admin</author>
+	<creationDate>March, 2018</creationDate>
+	<copyright>Copyright by Admin. All rights reserved.</copyright>
+	<license>The MIT License (MIT)</license>
+	<authorEmail>support@newwallet.loc</authorEmail>
+	<authorUrl>http://newwallet.ru/</authorUrl>
+    <version>1.0</version>
+	<description>Create an application in CDEK account</description>
+	<files>
+		<filename plugin="newwallet_cdek">newwallet_cdek.php</filename>
+	</files>
+</extension>
