@@ -6,9 +6,9 @@
 	<copyright>Copyright by Admin. All rights reserved.</copyright>
 	<license>The MIT License (MIT)</license>
 	<authorEmail>support@newwallet.loc</authorEmail>
-	<authorUrl>http://newwallet.loc/</authorUrl>
+	<authorUrl>http://newwallet.ru/</authorUrl>
     <version>1.0</version>
-	<description>Newwallet Pochta create order</description>
+	<description>Create an application in Russian post account</description>
 	<files>
 		<filename plugin="newwallet_pochta">newwallet_pochta.php</filename>
 	</files>
