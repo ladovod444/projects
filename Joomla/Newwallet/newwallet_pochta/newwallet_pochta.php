@@ -10,14 +10,14 @@ jimport('joomla.application.component.controller');
 
 class plgJshoppingCheckoutNewwallet_Pochta extends JPlugin {
 
-    const RUSSIAN_POST = 2;
-    const PAYMENT_CASH = 1;
-    const TRAVEL_KIT_ID = 10;
-    const POCHTA_KEY = 'aW5mb0BuZXd3YWxsZXQucnU6ZHg2MGhKTjNrL2R4Xw==';
-    const POCHTA_TOKEN = 'ArRltqR60XPnCJGYPLeS9r00Ay5lTp4_';
+	const RUSSIAN_POST = 2;
+	const PAYMENT_CASH = 1;
+	const TRAVEL_KIT_ID = 10;
+	const POCHTA_KEY = 'aW5mb0BuZXd3YWxsZXQucnU6ZHg2MGhKTjNrL2R4Xw==';
+	const POCHTA_TOKEN = 'ArRltqR60XPnCJGYPLeS9r00Ay5lTp4_';
 
-    const POCHTA_ENVELOPE = 0.022;
-    const POCHTA_ENVELOPE_TRAVEL_KIT =  0.042;
+	const POCHTA_ENVELOPE = 0.022;
+	const POCHTA_ENVELOPE_TRAVEL_KIT =  0.042;
 
     /*
      * After order complete full event callback

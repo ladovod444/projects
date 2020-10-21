@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.8" type="plugin" method="upgrade" group="jshoppingcheckout">
+	<name>JoomShopping - Newwallet unique after order coupon</name>
+	<author>admin</author>
+	<creationDate>October, 2019</creationDate>
+	<copyright>Copyright by Admin. All rights reserved.</copyright>
+	<license>The MIT License (MIT)</license>
+	<authorEmail>support@newwallet.ru</authorEmail>
+	<authorUrl>http://newwallet.ru/</authorUrl>
+    <version>1.0</version>
+	<description>Create unique after order coupon</description>
+	<files>
+		<filename plugin="newwallet_user_unique">newwallet_user_unique.php</filename>
+	</files>
+  <config>
+		<fields name="params">
+      <fieldset name="basic">
+       <field name="coupon_month_expire" type="text" label="Время действия в месяцах" />
+       <field name="coupon_percent_value" type="text" label="Процент" />
+      </fieldset>
+		</fields>
+	</config>
+</extension>
